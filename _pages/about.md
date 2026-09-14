@@ -32,7 +32,7 @@ Physician-scientist and global health researcher with extensive clinical experie
 ## Education
 
 - **Postgraduate Research Fellow in Global Health Research** | University of Oxford, UK *(2023 – Present)*
-- **PhD in Cardiovascular Research Fellow** | Guizhou Medical University, China *(2023 – Present)*
+- **PhD in Cardiovascular Research** | Guizhou Medical University, China *(2023 – Present)*
 - **Master of Science in Cardiology (MSc)y** | University of Buckingham, UK *(2024 – 2026)* — *Award:* Outstanding International Masters Student (Top of Campus, 2026).
 - **Master of Medicine in Geriatrics (MMed)** | Jinzhou Medical University, China *(2023 – 2026)* — *Award:* Distinction in every taught module.
 - **Doctor of Medicine (MD)** | Hubert Kairuki Memorial University, Tanzania *(2012 – 2017)* — *Included 1-year Medical Internship.*
