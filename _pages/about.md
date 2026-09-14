@@ -3,12 +3,12 @@ layout: default
 title: Innocent Tesha, MD, MMed, MSc, PhD Candidate
 ---
 
-# Innocent Arnold Tesha, MD
+# Innocent Tesha, MD
 **Physician-Scientist | AI & Cardiovascular Health Systems Researcher**
 
-📍 Dar es Salaam, Tanzania  
+📍 Oxford,UK  
 📧 [innocent.tesha@ndm.ox.ac.uk](mailto:innocent.tesha@ndm.ox.ac.uk)  
-📱 +255-713-173-175 | +86-183-4263-4730  
+📱 713-173-175 | 183-4263-4730  
 🔗 [GitHub](https://github.com/drtesha/) | [LinkedIn](https://linkedin.com/in/innocent-tesha) | [Google Scholar]([https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=RXmV37IAAAAJ&hl=en&oi=ao)) | [ORCID: 0009-0008-7291-4318](https://orcid.org/0009-0008-7291-4318)
 
 ---
@@ -96,8 +96,3 @@ Physician-scientist with extensive clinical experience and a focus on leveraging
 - American Statistical Association (Student Member)
 - International Diabetes Federation (Member)
  
-📧 liuxy1@jzmu.edu.cn | 📱 +86 135 0406 4376  
-
-**Dr. Faraja Chiwanga**  
-Director of Medical Services, Muhimbili National Hospital, Tanzania  
-📧 farajaandrew@gmail.com | 📱 +255 754 587 900  
