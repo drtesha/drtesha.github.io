@@ -25,17 +25,17 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Innocent Tesha"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "Physician-Scientist bridging AI, Global health and health systems."
-  location         : "Earth"
+  location         : "United Kingdom"
   employer         : "Oxford University, UK"
   uri              : # URL
   email            : "innocent.tesha@ndm.ox.ac.uk" 
 
   # Academic websites
-  academia         : # https://www.ox.ac.uk
+  academia         : "https://www.ox.ac.uk"
   googlescholar    : "https://scholar.google.com/citations?user=RXmV37IAAAAJ"
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-7291-4318"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=innocent+tesha"
   researchgate     : "https://www.researchgate.net/profile/Innocent-Tesha?ev=hdr_xprf"
 
@@ -46,9 +46,8 @@ author:
 
 
   # Social media
-  linkedin         : # "Innocent-Tesha"
-  twitter          : # Username for X / Twitter
-  youtube          : # 'Dr Innocent Tesha'
+  linkedin         : "Innocent-Tesha"
+  youtube          : 'Dr Innocent Tesha'
 
 
 # Publication Category - The following the list of publication categories and their headings
