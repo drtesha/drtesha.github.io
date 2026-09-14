@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: single
-title: "Innocent Tesha, MD, MMed, MSc, PhD Candidate"
+title: "Innocent Tesha"
 author_profile: true
 ---
 
