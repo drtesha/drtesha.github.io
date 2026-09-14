@@ -4,7 +4,7 @@ title: Innocent Tesha, MD, MMed, MSc, PhD Candidate
 ---
 
 # Innocent Tesha, MD
-**Physician-Scientist | AI & Cardiovascular Health Systems Researcher**
+**Physician-Scientist | Global Health | AI/Machine Learning**
 
 📍 Oxford,UK  
 📧 [innocent.tesha@ndm.ox.ac.uk](mailto:innocent.tesha@ndm.ox.ac.uk)  
@@ -14,7 +14,20 @@ title: Innocent Tesha, MD, MMed, MSc, PhD Candidate
 ---
 
 ## 🔬 Research Profile
-Physician-scientist with extensive clinical experience and a focus on leveraging artificial intelligence and data-driven approaches to strengthen health systems for aging populations with cardiovascular disease. My work integrates digital innovation, machine learning, and epidemiological methods to develop clinically relevant, scalable risk stratification tools. I am dedicated to advancing AI beyond prediction toward equitable, context-specific implementation in low- and middle-income countries (LMICs), optimizing care delivery and improving population-level outcomes.
+Physician-scientist and global health researcher with extensive clinical experience and a focus on leveraging artificial intelligence and data-driven approaches to strengthen health systems for aging populations with cardiovascular disease. My work integrates digital innovation, machine learning and epidemiological methods to develop clinically relevant and scalable risk stratification tools. I am dedicated to advancing health equity by moving AI beyond theoretical prediction towards practical, resource-stratified implementation by developing scalable, context-specific risk stratification tools and policy frameworks. I aim to optimise care delivery, inform health policy and improve Global health population-level outcomes.
+
+---
+
+## Global Health Leadership & Digital Innovation
+
+**Founder, [Health and Environment conservation Innovative Organisation]** | *Health & Environmental Conservation Initiative* *(2021 – Present)*  
+- Spearheaded the design and launch of **Med-Assist**, an innovative mHealth application aimed at bridging the health access gap in resource-limited settings.  
+- Integrated core public health functionalities, including automated vaccination and clinic reminders, appointment booking, and localized health education, significantly enhancing patient empowerment and care continuity.  
+- Align digital innovation with grassroots environmental and health conservation strategies to promote holistic, community-level well-being.
+
+**Founder & Science Communicator, Public Health Education Channel** | *YouTube / Digital Media* *(202X – Present)*  
+- Established a dedicated digital platform to combat health misinformation and improve public health literacy across diverse demographics in Tanzania and beyond.  
+- Translate complex medical, epidemiological, and cardiovascular concepts into accessible, culturally relevant content, fostering community engagement and informed health decision-making.  
 
 ---
 
@@ -60,6 +73,10 @@ Physician-scientist with extensive clinical experience and a focus on leveraging
 1. **Tesha, I.**, Qi, M., JiaSi, W., et al. (2026). AI-Driven Prediction of Multiple Outcomes in Older Adults with Coronary Heart Disease. *The Gerontologist*. doi:10.1093/geront/gnag017
 2. **Tesha, I.**, Liu, C., Burke, M., et al. (2026). Designing a longevity-ready health system in Tanzania: from geriatric care to healthy ageing across the life course. *The Lancet Regional Health - Africa*, 20, 100023. doi:10.1016/j.lanafr.2026.100023
 3. **Tesha, I.**, et al. (2025). Ethical and logistical imperatives for AI-driven cardiovascular risk prediction among older adults in Tanzania. *Frontiers in Aging*, 6. doi:10.3389/FRAGI.2025.1673926
+
+**Manuscripts Submitted / Under Review**
+- **Tesha, I.**, et al. (2026). A Resource-Stratified Safety Framework for Medical AI in Global Health: A Perspective. *(Submitted for Publication)*.
+- **Tesha, I.**, et al. (2026). Country-level trends and forecasts of cardiometabolic and brain ageing burden in Sub-Saharan Africa, 1990–2050: Identifying divergent ageing trajectories. *(Under Review)*.
 
 **Pre-prints & Working Papers**
 - **Tesha, I.**, et al. (2025). Machine Learning Risk Prediction for Prolonged Hospitalization in Frail Older Adults with Multimorbidity. *medRxiv*. doi:10.1101/2025.10.18.25338267
