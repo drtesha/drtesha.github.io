@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Innocent Tesha MD,MMed,MSc"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Innocent Tesha"
+description              : &description "Physician-Scientist | Global Health & AI/Machine LearningResearcher"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://drtesha.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "drtesha/drtesha.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Innocent Tesha"
+  pronouns         : # example: "he/him"  
+  bio              : "Physician-Scientist bridging AI, Global health and health systems."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Oxford University, UK"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "innocent.tesha@ndm.ox.ac.uk" 
 
   # Academic websites
   academia         : # URL
