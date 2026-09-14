@@ -3,7 +3,7 @@ permalink: /
 layout: single
 title: "Innocent Tesha, MD, MMed, MSc, PhD Candidate"
 author_profile: true
-   ---
+---
 
 # Innocent Tesha MD, MMed, MSc, PhD Candidate
 **Physician-Scientist | Global Health | AI/Machine Learning**
