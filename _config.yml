@@ -29,11 +29,11 @@ author:
   bio              : "Physician-Scientist bridging AI, Global health and health systems."
   location         : "United Kingdom"
   employer         : "Oxford University, UK"
-  uri              : # URL
+  uri              : "https://www.ox.ac.uk"
   email            : "innocent.tesha@ndm.ox.ac.uk" 
 
   # Academic websites
-  academia         : "https://www.ox.ac.uk"
+  academia         : #URL
   googlescholar    : "https://scholar.google.com/citations?user=RXmV37IAAAAJ"
   orcid            : "https://orcid.org/0009-0008-7291-4318"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=innocent+tesha"
