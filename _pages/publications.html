@@ -1,36 +1,24 @@
 ---
-layout: archive
-title: "Publications"
+layout: single
 permalink: /publications/
+title: "Publications"
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=RXmV37IAAAAJ).
 
-{% include base_path %}
+## Peer-Reviewed Journal Articles
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+1. **Tesha, I.**, Qi, M., JiaSi, W., Xizhe, Z., Ahmed, K., Njoka, I., et al. (2026). AI-Driven Prediction of Multiple Outcomes in Older Adults with Coronary Heart Disease. *The Gerontologist*. doi:[10.1093/geront/gnag017](https://doi.org/10.1093/geront/gnag017). PubMed PMID: 41776762.
+2. **Tesha, I.**, Liu, C., Burke, M., Chiwanga, F., & Xinyu, L. (2026). Designing a longevity-ready health system in Tanzania: from geriatric care to healthy ageing across the life course. *The Lancet Regional Health - Africa*, 20, 100023. doi:[10.1016/j.lanafr.2026.100023](https://doi.org/10.1016/j.lanafr.2026.100023).
+3. **Tesha, I.**, et al. (2025). Ethical and logistical imperatives for AI-driven cardiovascular risk prediction among older adults in Tanzania: framing a digital health agenda for low-income settings. *Frontiers in Aging*, 6. doi:[10.3389/FRAGI.2025.1673926](https://doi.org/10.3389/FRAGI.2025.1673926).
 
+## Manuscripts Submitted / Under Review
 
+- **Tesha, I.**, et al. (2026). A Resource-Stratified Safety Framework for Medical AI in Global Health: A Perspective. *(Submitted for publication)*.
+- **Tesha, I.**, et al. (2026). Country-level trends and forecasts of cardiometabolic and brain ageing burden in Sub-Saharan Africa, 1990–2050: Identifying divergent ageing trajectories. *(Under review)*.
 
+## Pre-prints & Working Papers
+
+- **Tesha, I.**, et al. (2025). Machine Learning Risk Prediction for Prolonged Hospitalization in Frail Older Adults with Multimorbidity. *medRxiv*. doi:[10.1101/2025.10.18.25338267](https://doi.org/10.1101/2025.10.18.25338267).
+- **Tesha, I.**, et al. (2024). Key Predictors of Undiagnosed Hypertension Among Middle-Aged Adults in Tanzania: A Machine Learning Analysis. *SSRN*. doi:[10.2139/ssrn.6348574](https://doi.org/10.2139/ssrn.6348574).
