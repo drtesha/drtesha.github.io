@@ -14,7 +14,11 @@ author_profile: true
 
 ## Research Profile
 
-Physician-scientist and global health researcher with extensive clinical experience and a focus on leveraging artificial intelligence and data-driven approaches to strengthen health systems for aging populations with cardiovascular disease. My work integrates digital innovation, machine learning and epidemiological methods to develop clinically relevant and scalable risk stratification tools. I am dedicated to advancing health equity by moving AI beyond theoretical prediction towards practical, resource-stratified implementation by developing scalable, context-specific risk stratification tools and policy frameworks. I aim to optimise care delivery, inform health policy and improve Global health population-level outcomes.
+Physician-scientist and global health researcher working at the intersection of artificial intelligence, healthy ageing, health systems, and AI safety. My research integrates clinical medicine, machine learning, epidemiology, and implementation science to develop and evaluate data-driven technologies that can strengthen health systems and improve health outcomes, particularly in ageing populations and resource-constrained settings.
+
+My work spans two complementary areas: (1) AI for healthy ageing and global health, including cardiovascular risk prediction, multimorbidity, ageing-related health-system preparedness, and scalable decision-support approaches; and (2) safe and responsible AI for global health, including the evaluation of medical AI and frontier large language models, resource-stratified AI safety, equity, governance, and emerging AI-enabled biological risks.
+
+Across these areas, my goal is to advance responsible, context-aware, and resource-stratified AI—moving beyond predictive performance toward technologies and governance approaches that are safe, equitable, implementable and relevant to diverse health systems. Ultimately, I aim to contribute to a global research agenda in which AI can accelerate health innovation while strengthening health-system resilience, equity, and biosecurity..
 
 ## Global Health Leadership & Digital Innovation
 
