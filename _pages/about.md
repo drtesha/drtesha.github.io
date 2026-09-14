@@ -20,11 +20,11 @@ Physician-scientist with extensive clinical experience and a focus on leveraging
 
 ##  Education
 - **PhD in Cardiovascular Medicine Research** | Guizhou Medical University, China *(2023 – Present)*  
-  *Thesis:* Development and Validation of a Machine Learning Prediction Model for In-hospital Mortality, Prolonged Length of Stay, and Readmission in Frail Older Adults with Coronary Heart Disease.
-- **Postgraduate Diploma in Global Health Research** | University of Oxford, UK *(2023 – Present)*  
-  *(Note: Please verify end date, originally listed as 2029)*
-- **Master of Medicine in Geriatrics** | Jinzhou Medical University, China *(2023 – 2026)*  
+- **Postgraduate Diploma in Global Health Research** | University of Oxford, UK *(2023 – Present)*
+- **Master of Science in Geriatrics** | University of Buckingham, Uk *(2024 – 2026)*
   *Award:* Outstanding International Masters Student (Top of Campus, 2026).
+- **Master of Medicine in Geriatrics** | Jinzhou Medical University, China *(2023 – 2026)*  
+  *Award:* Distinction in every taught module.
 - **Doctor of Medicine (MD)** | Hubert Kairuki Memorial University, Tanzania *(2012 – 2017)*  
   *Included 1-year Medical Internship.*
 
@@ -32,22 +32,22 @@ Physician-scientist with extensive clinical experience and a focus on leveraging
 
 ##  Key Research Projects & Experience
 
-**Project Lead, AI-Driven Cardiovascular Risk Prediction** | *First Affiliated Hospital of Jinzhou Medical University* (2023 – Present)  
+**Project Lead, AI-Driven Cardiovascular Risk Prediction** |
 - Directed end-to-end development of machine learning models to predict multiple clinical outcomes in frail older adults with coronary heart disease.  
 - Curated and pre-processed complex clinical datasets, integrating multinomial logistic regression with ensemble ML algorithms.  
 - **Outcome:** Manuscript published in *The Gerontologist* (Oxford University Press).
 
-**Lead Investigator, Longevity-Ready Health Systems Framework** | *Tanzania Health Systems Initiative* (2023 – Present)  
+**Lead Investigator, Longevity-Ready Health Systems Framework** | 
 - Pioneered a comprehensive needs assessment and evidence-based framework to integrate geriatric care across the life course in Tanzania.  
 - Engaged multidisciplinary stakeholders (healthcare, academia, policy) to design scalable, technology-enabled care models for resource-constrained settings.  
 - **Outcome:** Manuscript published in *The Lancet Regional Health - Africa*.
 
-**Hospital Research Coordinator, National Respiratory Surveillance** | *Muhimbili National Hospital, Tanzania* (2021 – 2023)  
+**Hospital Research Coordinator, National Respiratory Surveillance** | 
 - Led a cross-functional team of 8 clinicians and technicians to oversee the hospital’s arm of the National Survey of Influenza and Other Respiratory Viruses.  
 - Designed patient recruitment strategies and coordinated real-time, de-identified data transmission with the CDC.  
 - **Outcome:** Successfully contributed >2,000 high-quality samples and clinical data points, directly informing national public health and vaccination policies.
 
-**Independent Research Lead, Ethical AI in LMICs** | *Jinzhou Medical University* (2023 – Present)  
+**Independent Research Lead, Ethical AI in LMICs** | 
 - Developed a conceptual framework for ethical, scalable AI deployment in cardiovascular risk prediction within low-income healthcare contexts.  
 - Conducted stakeholder analysis with local policymakers and ethicists to ensure culturally appropriate digital health solutions.  
 - **Outcome:** Manuscript published in *Frontiers in Aging*.
@@ -60,7 +60,6 @@ Physician-scientist with extensive clinical experience and a focus on leveraging
 1. **Tesha, I.**, Qi, M., JiaSi, W., et al. (2026). AI-Driven Prediction of Multiple Outcomes in Older Adults with Coronary Heart Disease. *The Gerontologist*. doi:10.1093/geront/gnag017
 2. **Tesha, I.**, Liu, C., Burke, M., et al. (2026). Designing a longevity-ready health system in Tanzania: from geriatric care to healthy ageing across the life course. *The Lancet Regional Health - Africa*, 20, 100023. doi:10.1016/j.lanafr.2026.100023
 3. **Tesha, I.**, et al. (2025). Ethical and logistical imperatives for AI-driven cardiovascular risk prediction among older adults in Tanzania. *Frontiers in Aging*, 6. doi:10.3389/FRAGI.2025.1673926
-4. Kam, M., **Gringras, D.**, et al. *(Note: Removed from your CV, but if you co-authored, keep it. Otherwise, ensure all author lists are accurate to your work).*
 
 **Pre-prints & Working Papers**
 - **Tesha, I.**, et al. (2025). Machine Learning Risk Prediction for Prolonged Hospitalization in Frail Older Adults with Multimorbidity. *medRxiv*. doi:10.1101/2025.10.18.25338267
@@ -96,12 +95,7 @@ Physician-scientist with extensive clinical experience and a focus on leveraging
 - British Gerontology Society (Student Member)
 - American Statistical Association (Student Member)
 - International Diabetes Federation (Member)
-
----
-
-##  References
-**Prof. Liu Xinyu**  
-Director of Geriatric Medicine, First Affiliated Hospital of Jinzhou Medical University, China  
+ 
 📧 liuxy1@jzmu.edu.cn | 📱 +86 135 0406 4376  
 
 **Dr. Faraja Chiwanga**  
