@@ -5,7 +5,6 @@ title: "Innocent Tesha, MD, MMed, MSc, PhD Candidate"
 author_profile: true
 ---
 
-# Innocent Tesha, MD
 **Physician-Scientist | Global Health | AI/Machine Learning**
 
 📍 Oxford, UK  
