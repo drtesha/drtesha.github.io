@@ -3,7 +3,7 @@ layout: default
 title: Innocent Tesha, MD, MMed, MSc, PhD Candidate
 ---
 
-# Innocent Tesha, MD
+# Innocent Tesha, MD, MMed, MSc, PhD Candidate
 **Physician-Scientist | Global Health | AI/Machine Learning**
 
 📍 Oxford,UK  
@@ -13,7 +13,7 @@ title: Innocent Tesha, MD, MMed, MSc, PhD Candidate
 
 ---
 
-## 🔬 Research Profile
+## Research Profile
 Physician-scientist and global health researcher with extensive clinical experience and a focus on leveraging artificial intelligence and data-driven approaches to strengthen health systems for aging populations with cardiovascular disease. My work integrates digital innovation, machine learning and epidemiological methods to develop clinically relevant and scalable risk stratification tools. I am dedicated to advancing health equity by moving AI beyond theoretical prediction towards practical, resource-stratified implementation by developing scalable, context-specific risk stratification tools and policy frameworks. I aim to optimise care delivery, inform health policy and improve Global health population-level outcomes.
 
 ---
@@ -25,7 +25,7 @@ Physician-scientist and global health researcher with extensive clinical experie
 - Integrated core public health functionalities, including automated vaccination and clinic reminders, appointment booking, and localized health education, significantly enhancing patient empowerment and care continuity.  
 - Align digital innovation with grassroots environmental and health conservation strategies to promote holistic, community-level well-being.
 
-**Founder & Science Communicator, Public Health Education Channel** | *YouTube / Digital Media* *(202X – Present)*  
+**Founder & Science Communicator, Public Health Education Channel** | *YouTube / Digital Media* *(2020 – Present)*  
 - Established a dedicated digital platform to combat health misinformation and improve public health literacy across diverse demographics in Tanzania and beyond.  
 - Translate complex medical, epidemiological, and cardiovascular concepts into accessible, culturally relevant content, fostering community engagement and informed health decision-making.  
 
@@ -85,7 +85,7 @@ Physician-scientist and global health researcher with extensive clinical experie
 ---
 
 ##  Technical & Research Skills
-- **Data Science & AI:** Python (Pandas, NumPy), R (tidyverse), Machine Learning (ensemble methods, predictive modeling), Feature Engineering.
+- **Data Science & AI:** Python (Pandas, NumPy), R (tidyverse), Machine Learning (ensemble methods, predictive modelling), Feature Engineering.
 - **Statistical Analysis:** SPSS, Stata (longitudinal/cohort analysis), Advanced Excel.
 - **Research Methodology:** Clinical trial protocols, PRISMA systematic reviews/meta-analyses, qualitative thematic analysis, EHR curation.
 - **Languages:** English (Fluent), Swahili (Native), Chinese (Conversational, HSK IV).
