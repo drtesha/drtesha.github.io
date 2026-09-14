@@ -1,56 +1,109 @@
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: default
+title: Innocent Tesha, MD, MMed, MSc, PhD Candidate
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+# Innocent Arnold Tesha, MD
+**Physician-Scientist | AI & Cardiovascular Health Systems Researcher**
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+📍 Dar es Salaam, Tanzania  
+📧 [innocent.tesha@ndm.ox.ac.uk](mailto:innocent.tesha@ndm.ox.ac.uk)  
+📱 +255-713-173-175 | +86-183-4263-4730  
+🔗 [GitHub](https://github.com/drtesha/) | [LinkedIn](https://linkedin.com/in/innocent-tesha) | [Google Scholar]([https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=RXmV37IAAAAJ&hl=en&oi=ao)) | [ORCID: 0009-0008-7291-4318](https://orcid.org/0009-0008-7291-4318)
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+---
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## 🔬 Research Profile
+Physician-scientist with extensive clinical experience and a focus on leveraging artificial intelligence and data-driven approaches to strengthen health systems for aging populations with cardiovascular disease. My work integrates digital innovation, machine learning, and epidemiological methods to develop clinically relevant, scalable risk stratification tools. I am dedicated to advancing AI beyond prediction toward equitable, context-specific implementation in low- and middle-income countries (LMICs), optimizing care delivery and improving population-level outcomes.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+---
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+##  Education
+- **PhD in Cardiovascular Medicine Research** | Guizhou Medical University, China *(2023 – Present)*  
+  *Thesis:* Development and Validation of a Machine Learning Prediction Model for In-hospital Mortality, Prolonged Length of Stay, and Readmission in Frail Older Adults with Coronary Heart Disease.
+- **Postgraduate Diploma in Global Health Research** | University of Oxford, UK *(2023 – Present)*  
+  *(Note: Please verify end date, originally listed as 2029)*
+- **Master of Medicine in Geriatrics** | Jinzhou Medical University, China *(2023 – 2026)*  
+  *Award:* Outstanding International Masters Student (Top of Campus, 2026).
+- **Doctor of Medicine (MD)** | Hubert Kairuki Memorial University, Tanzania *(2012 – 2017)*  
+  *Included 1-year Medical Internship.*
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+---
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+##  Key Research Projects & Experience
 
-**Markdown generator**
+**Project Lead, AI-Driven Cardiovascular Risk Prediction** | *First Affiliated Hospital of Jinzhou Medical University* (2023 – Present)  
+- Directed end-to-end development of machine learning models to predict multiple clinical outcomes in frail older adults with coronary heart disease.  
+- Curated and pre-processed complex clinical datasets, integrating multinomial logistic regression with ensemble ML algorithms.  
+- **Outcome:** Manuscript published in *The Gerontologist* (Oxford University Press).
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+**Lead Investigator, Longevity-Ready Health Systems Framework** | *Tanzania Health Systems Initiative* (2023 – Present)  
+- Pioneered a comprehensive needs assessment and evidence-based framework to integrate geriatric care across the life course in Tanzania.  
+- Engaged multidisciplinary stakeholders (healthcare, academia, policy) to design scalable, technology-enabled care models for resource-constrained settings.  
+- **Outcome:** Manuscript published in *The Lancet Regional Health - Africa*.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**Hospital Research Coordinator, National Respiratory Surveillance** | *Muhimbili National Hospital, Tanzania* (2021 – 2023)  
+- Led a cross-functional team of 8 clinicians and technicians to oversee the hospital’s arm of the National Survey of Influenza and Other Respiratory Viruses.  
+- Designed patient recruitment strategies and coordinated real-time, de-identified data transmission with the CDC.  
+- **Outcome:** Successfully contributed >2,000 high-quality samples and clinical data points, directly informing national public health and vaccination policies.
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+**Independent Research Lead, Ethical AI in LMICs** | *Jinzhou Medical University* (2023 – Present)  
+- Developed a conceptual framework for ethical, scalable AI deployment in cardiovascular risk prediction within low-income healthcare contexts.  
+- Conducted stakeholder analysis with local policymakers and ethicists to ensure culturally appropriate digital health solutions.  
+- **Outcome:** Manuscript published in *Frontiers in Aging*.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+---
+
+##  Selected Publications
+
+**Peer-Reviewed Journals**
+1. **Tesha, I.**, Qi, M., JiaSi, W., et al. (2026). AI-Driven Prediction of Multiple Outcomes in Older Adults with Coronary Heart Disease. *The Gerontologist*. doi:10.1093/geront/gnag017
+2. **Tesha, I.**, Liu, C., Burke, M., et al. (2026). Designing a longevity-ready health system in Tanzania: from geriatric care to healthy ageing across the life course. *The Lancet Regional Health - Africa*, 20, 100023. doi:10.1016/j.lanafr.2026.100023
+3. **Tesha, I.**, et al. (2025). Ethical and logistical imperatives for AI-driven cardiovascular risk prediction among older adults in Tanzania. *Frontiers in Aging*, 6. doi:10.3389/FRAGI.2025.1673926
+4. Kam, M., **Gringras, D.**, et al. *(Note: Removed from your CV, but if you co-authored, keep it. Otherwise, ensure all author lists are accurate to your work).*
+
+**Pre-prints & Working Papers**
+- **Tesha, I.**, et al. (2025). Machine Learning Risk Prediction for Prolonged Hospitalization in Frail Older Adults with Multimorbidity. *medRxiv*. doi:10.1101/2025.10.18.25338267
+- **Tesha, I.**, et al. (2024). Key Predictors of Undiagnosed Hypertension Among Middle-Aged Adults in Tanzania: A Machine Learning Analysis. *SSRN*. doi:10.2139/ssrn.6348574
+
+---
+
+##  Technical & Research Skills
+- **Data Science & AI:** Python (Pandas, NumPy), R (tidyverse), Machine Learning (ensemble methods, predictive modeling), Feature Engineering.
+- **Statistical Analysis:** SPSS, Stata (longitudinal/cohort analysis), Advanced Excel.
+- **Research Methodology:** Clinical trial protocols, PRISMA systematic reviews/meta-analyses, qualitative thematic analysis, EHR curation.
+- **Languages:** English (Fluent), Swahili (Native), Chinese (Conversational, HSK IV).
+
+---
+
+##  Honours & Awards
+- **Outstanding International Masters Student** | Jinzhou Medical University (2026)
+- **2nd Best Innovator and Oral Presenter** | Chongqing Medical University / China Ministry of Education (2025)
+- **Best Postgraduate Student** | Tanzania Association of Students, Jinzhou Medical University (2025)
+- **Student Resident Assistant (Highest Student Leadership Position)** | Jinzhou Medical University (2025)
+
+---
+
+##  Selected Conferences & Presentations
+- **Oral Presentation:** "Machine Learning for Outcome Prediction in Hospitalized Frail Older Adults" | *Digital Intelligence Drives a Healthy Future*, Chongqing Medical University (May 2025).
+- **Attendee:** European Heart Failure Conference | Barcelona, Spain (May 2026).
+- **Presenter:** 3rd National Non-Communicable Diseases Scientific Conference | Arusha, Tanzania (Nov 2021).
+
+---
+
+##  Professional Affiliations
+- The Gerontology Society of America (Student Member)
+- British Gerontology Society (Student Member)
+- American Statistical Association (Student Member)
+- International Diabetes Federation (Member)
+
+---
+
+##  References
+**Prof. Liu Xinyu**  
+Director of Geriatric Medicine, First Affiliated Hospital of Jinzhou Medical University, China  
+📧 liuxy1@jzmu.edu.cn | 📱 +86 135 0406 4376  
+
+**Dr. Faraja Chiwanga**  
+Director of Medical Services, Muhimbili National Hospital, Tanzania  
+📧 farajaandrew@gmail.com | 📱 +255 754 587 900  
