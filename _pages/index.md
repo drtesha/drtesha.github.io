@@ -12,7 +12,7 @@ author_profile: true
 🔗 [GitHub](https://github.com/drtesha/) | [LinkedIn](https://linkedin.com/in/innocent-tesha) | [Google Scholar](https://scholar.google.com/citations?user=RXmV37IAAAAJ) | [ORCID: 0009-0008-7291-4318](https://orcid.org/0009-0008-7291-4318)
 
 ## Research Profile
-Health systems in low- and middle-income countries face a shortage of clinical specialists. Artificial intelligence (AI) offers a mechanism to scale diagnostic capacity. I evaluate the clinical validity and cost-effectiveness of medical AI in resource-constrained settings. As a clinician Scientist and global health researcher my research bridges epidemiology and implementation science to determine which tools yield measurable health gains per dollar spent.
+Health systems in low- and middle-income countries face a shortage of clinical specialists. Artificial intelligence (AI) offers a mechanism to scale diagnostic capacity.As a clinician Scientist and global health researcher my research bridges epidemiology and implementation science to determine which tools yield measurable health gains per dollar spent. I evaluate the clinical validity and cost-effectiveness of medical AI in resource-constrained settings.
 
 Conventional AI research prioritises predictive performance in high-income cohorts. In contrast, my work tests algorithmic utility in Tanzanian, Nepal, and Chinese  health systems where specialist oversight is absent. I investigate cardiovascular risk prediction, multi-morbidity management, respiratory disease surveillance,  pandemic preparedness and health-system preparedness for ageing populations. I also audit frontier large language models for adherence to clinical guidelines.
 
