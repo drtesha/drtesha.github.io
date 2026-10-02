@@ -1,1 +1,68 @@
+---
+permalink: /
+layout: single
+title: "Innocent Tesha, MD, MMed, MSc, PhD Candidate"
+author_profile: true
+---
 
+**Physician-Scientist • Global Health • AI/Machine Learning**
+
+📍 Oxford, UK  
+📧 [innocent.tesha@ndm.ox.ac.uk](mailto:innocent.tesha@ndm.ox.ac.uk)  
+📱 +255-713-173-175 | +86-183-4263-4730  
+🔗 [GitHub](https://github.com/drtesha/) | [LinkedIn](https://linkedin.com/in/innocent-tesha) | [Google Scholar](https://scholar.google.com/citations?user=RXmV37IAAAAJ) | [ORCID: 0009-0008-7291-4318](https://orcid.org/0009-0008-7291-4318)
+
+## Research Profile
+
+Physician-scientist and global health researcher working at the intersection of artificial intelligence, healthy ageing, health systems, and AI safety. My research integrates clinical medicine, machine learning, epidemiology, and implementation science to develop and evaluate data-driven technologies that can strengthen health systems and improve health outcomes, particularly in ageing populations and resource-constrained settings.
+
+My work spans two complementary areas: (1) AI for healthy ageing and global health, including cardiovascular risk prediction, multimorbidity, ageing-related health-system preparedness, and scalable decision-support approaches; and (2) safe and responsible AI for global health, including the evaluation of medical AI and frontier large language models, resource-stratified AI safety, equity, governance, and emerging AI-enabled biological risks.
+
+Across these areas, my goal is to advance responsible, context-aware, and resource-stratified AI—moving beyond predictive performance toward technologies and governance approaches that are safe, equitable, implementable and relevant to diverse health systems. Ultimately, I aim to contribute to a global research agenda in which AI can accelerate health innovation while strengthening health-system resilience, equity, and biosecurity..
+
+## Global Health Leadership & Digital Innovation
+
+**Founder, Health and Environment Conservation Innovative Organisation** | *Health & Environmental Conservation Initiative* *(2021 – Present)*
+
+- Spearheaded the design and launch of **Med-Assist**, an innovative mHealth application aimed at bridging the health access gap in resource-limited settings.
+- Integrated core public health functionalities, including automated vaccination and clinic reminders, appointment booking, and localized health education, significantly enhancing patient empowerment and care continuity.
+- Align digital innovation with grassroots environmental and health conservation strategies to promote holistic, community-level well-being.
+
+**Founder & Science Communicator, Public Health Education Channel** | *YouTube / Digital Media* *(2020 – Present)*
+
+- Established a dedicated digital platform to combat health misinformation and improve public health literacy across diverse demographics in Tanzania and beyond.
+- Translate complex medical, epidemiological, and cardiovascular concepts into accessible, culturally relevant content, fostering community engagement and informed health decision-making.
+
+## Education
+
+- **Postgraduate Research Fellow in Global Health Research** | University of Oxford, UK *(2023 – Present)*
+- **PhD in Cardiovascular Research** | Guizhou Medical University, China *(2023 – Present)*
+- **Master of Science in Cardiology (MSc)** | University of Buckingham, UK *(2024 – 2026)* — *Award:* Outstanding International Masters Student (Top of Campus, 2026).
+- **Master of Medicine in Geriatrics (MMed)** | Jinzhou Medical University, China *(2023 – 2026)* — *Award:* Distinction in every taught module.
+- **Doctor of Medicine (MD)** | Hubert Kairuki Memorial University, Tanzania *(2012 – 2017)* — *Included 1-year Medical Internship.*
+
+## Key Research Projects & Experience
+
+**Project Lead, AI-Driven Cardiovascular Risk Prediction**
+
+- Directed end-to-end development of machine learning models to predict multiple clinical outcomes in frail older adults with coronary heart disease.
+- Curated and pre-processed complex clinical datasets, integrating multinomial logistic regression with ensemble ML algorithms.
+- **Outcome:** Manuscript published in *The Gerontologist* (Oxford University Press).
+
+**Lead Investigator, Longevity-Ready Health Systems Framework**
+
+- Pioneered a comprehensive needs assessment and evidence-based framework to integrate geriatric care across the life course in Tanzania.
+- Engaged multidisciplinary stakeholders (healthcare, academia, policy) to design scalable, technology-enabled care models for resource-constrained settings.
+- **Outcome:** Manuscript published in *The Lancet Regional Health - Africa*.
+
+**Hospital Research Coordinator, National Respiratory Surveillance**
+
+- Led a cross-functional team of 8 clinicians and technicians to oversee the hospital's arm of the National Survey of Influenza and Other Respiratory Viruses.
+- Designed patient recruitment strategies and coordinated real-time, de-identified data transmission with the CDC.
+- **Outcome:** Successfully contributed >2,000 high-quality samples and clinical data points, directly informing national public health and vaccination policies.
+
+**Independent Research Lead, Ethical AI in LMICs**
+
+- Developed a conceptual framework for ethical, scalable AI deployment in cardiovascular risk prediction within low-income healthcare contexts.
+- Conducted stakeholder analysis with local policymakers and ethicists to ensure culturally appropriate digital health solutions.
+- **Outcome:** Manuscript published in *Frontiers in Aging*.
