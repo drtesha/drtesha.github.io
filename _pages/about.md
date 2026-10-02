@@ -5,7 +5,7 @@ title: "Innocent Tesha, MD, MMed, MSc, PhD Candidate"
 author_profile: true
 ---
 
-**Physician-Scientist • Global Health • AI/Machine Learning**
+**Clinician-Scientist • Global Health • AI/Machine Learning**
 
 📍 Oxford, UK  
 📧 [innocent.tesha@ndm.ox.ac.uk](mailto:innocent.tesha@ndm.ox.ac.uk)  
@@ -13,33 +13,34 @@ author_profile: true
 🔗 [GitHub](https://github.com/drtesha/) | [LinkedIn](https://linkedin.com/in/innocent-tesha) | [Google Scholar](https://scholar.google.com/citations?user=RXmV37IAAAAJ) | [ORCID: 0009-0008-7291-4318](https://orcid.org/0009-0008-7291-4318)
 
 ## Research Profile
+Health systems in low- and middle-income countries face a shortage of clinical specialists. Artificial intelligence (AI) offers a mechanism to scale diagnostic capacity. I evaluate the clinical validity and cost-effectiveness of medical AI in resource-constrained settings. As a clinician Scientist and global health researcher my research bridges epidemiology and implementation science to determine which tools yield measurable health gains per dollar spent.
 
-Physician-scientist and global health researcher working at the intersection of artificial intelligence, healthy ageing, health systems, and AI safety. My research integrates clinical medicine, machine learning, epidemiology, and implementation science to develop and evaluate data-driven technologies that can strengthen health systems and improve health outcomes, particularly in ageing populations and resource-constrained settings.
+Conventional AI research prioritises predictive performance in high-income cohorts. In contrast, my work tests algorithmic utility in Tanzanian, Nepal, and Chinese  health systems where specialist oversight is absent. I investigate cardiovascular risk prediction, multi-morbidity management, respiratory disease surveillance,  pandemic preparedness and health-system preparedness for ageing populations. I also audit frontier large language models for adherence to clinical guidelines.
 
-My work spans two complementary areas: (1) AI for healthy ageing and global health, including cardiovascular risk prediction, multimorbidity, ageing-related health-system preparedness, and scalable decision-support approaches; and (2) safe and responsible AI for global health, including the evaluation of medical AI and frontier large language models, resource-stratified AI safety, equity, governance, and emerging AI-enabled biological risks.
+Across these areas, my goal is to identify AI interventions that improve population health without exacerbating inequity,  advance responsible, context-aware, and resource-stratified AI moving beyond predictive performance toward technologies and governance approaches that are safe, equitable, implementable and relevant to diverse health systems.
 
-Across these areas, my goal is to advance responsible, context-aware, and resource-stratified AI—moving beyond predictive performance toward technologies and governance approaches that are safe, equitable, implementable and relevant to diverse health systems. Ultimately, I aim to contribute to a global research agenda in which AI can accelerate health innovation while strengthening health-system resilience, equity, and biosecurity..
+ Ultimately, I aim to contribute to a global research agenda in which AI can accelerate health innovation while strengthening health-system resilience, equity, and biosecurity along with building evidence for policymakers and grant-makers to allocate capital toward safe and context-aligned digital health technologies.
+
 
 ## Global Health Leadership & Digital Innovation
 
 **Founder, Health and Environment Conservation Innovative Organisation** | *Health & Environmental Conservation Initiative* *(2021 – Present)*
 
-- Spearheaded the design and launch of **Med-Assist**, an innovative mHealth application aimed at bridging the health access gap in resource-limited settings.
-- Integrated core public health functionalities, including automated vaccination and clinic reminders, appointment booking, and localized health education, significantly enhancing patient empowerment and care continuity.
-- Align digital innovation with grassroots environmental and health conservation strategies to promote holistic, community-level well-being.
+- I directed the development of Med-Assist, a mobile health application for rural and urban clinics in Tanzania. The platform automates vaccination schedules Hospital visits, and appointment reminders. We integrated these functions to reduce patient attrition in longitudinal car
 
 **Founder & Science Communicator, Public Health Education Channel** | *YouTube / Digital Media* *(2020 – Present)*
 
-- Established a dedicated digital platform to combat health misinformation and improve public health literacy across diverse demographics in Tanzania and beyond.
+- Established a dedicated digital platform to combat health misinformation and improve public health literacy across diverse demographics in East-Africa
 - Translate complex medical, epidemiological, and cardiovascular concepts into accessible, culturally relevant content, fostering community engagement and informed health decision-making.
+
 
 ## Education
 
-- **Postgraduate Research Fellow in Global Health Research** | University of Oxford, UK *(2023 – Present)*
-- **PhD in Cardiovascular Research** | Guizhou Medical University, China *(2023 – Present)*
-- **Master of Science in Cardiology (MSc)** | University of Buckingham, UK *(2024 – 2026)* — *Award:* Outstanding International Masters Student (Top of Campus, 2026).
-- **Master of Medicine in Geriatrics (MMed)** | Jinzhou Medical University, China *(2023 – 2026)* — *Award:* Distinction in every taught module.
-- **Doctor of Medicine (MD)** | Hubert Kairuki Memorial University, Tanzania *(2012 – 2017)* — *Included 1-year Medical Internship.*
+- **Postgraduate Research Fellow in Global Health Research** | University of Oxford, UK (2026 to Present)
+- **Hybrid Research fellow in Cardiovascular Research** | Guizhou Medical University, China (2026 to Present)
+- **Master of Science in Cardiology (MSc)** | University of Buckingham, UK (2024 to 2026). Awarded Outstanding International Masters Student (ranked first in cohort).
+- **Master of Medicine in Geriatrics (MMed)** | Jinzhou Medical University, China (2023 to 2026). Achieved distinction in all taught modules and awarded Best International student.
+- **Doctor of Medicine (MD)** | Hubert Kairuki Memorial University, Tanzania (2012 to 2017). Completed a 12-month clinical internship.
 
 ## Key Research Projects & Experience
 
@@ -66,3 +67,32 @@ Across these areas, my goal is to advance responsible, context-aware, and resour
 - Developed a conceptual framework for ethical, scalable AI deployment in cardiovascular risk prediction within low-income healthcare contexts.
 - Conducted stakeholder analysis with local policymakers and ethicists to ensure culturally appropriate digital health solutions.
 - **Outcome:** Manuscript published in *Frontiers in Aging*.
+
+**Independent Research Lead, AI Safety and Governance in LMICs**
+
+I developed the RESOURCE framework to evaluate context-aligned safety for medical artificial intelligence in global health. I mapped algorithmic risks to resource-stratified clinical environments. The manuscript is under review at the *Cureus Journal of AI-Augmented Research*.
+
+
+## Honours and Awards
+
+- Outstanding Masters Student, University of Buckingham (2026).
+- Outstanding International Masters Student, Jinzhou Medical University (2026).
+- Second Best Innovator and Oral Presenter, Chongqing Medical University and China Ministry of Education (2025).
+- Best Postgraduate Student, Tanzania Association of Students at Jinzhou Medical University (2025).
+- Student Resident Assistant, Jinzhou Medical University (2025).
+
+## Selected Conferences and Presentations
+
+- Oral presentation on machine learning for outcome prediction in hospitalised frail older adults at the Digital Intelligence Drives a Healthy Future conference, Chongqing Medical University (May 2025).
+- Panelist on international perspectives on careers in ageing at the Gerontological Society of America meeting, Washington, United States (May 2026).
+- Presenter at the 3rd National Non-Communicable Diseases Scientific Conference, Arusha, Tanzania (November 2021).
+- Participant at the European Heart Failure Conference, Barcelona, Spain (May 2026).
+
+## Professional Affiliations
+
+- Royal Society of Tropical Medicine and Hygiene (LMIC Student Member).
+- Gerontological Society of America (International Student Member).
+- British Society of Gerontology (International Student Member).
+- American Statistical Association (Student Member).
+- International Diabetes Federation (Member).
+
